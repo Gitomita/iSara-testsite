@@ -1472,9 +1472,9 @@ input::placeholder {
     border-top: 5px solid #dddddd;
     border-right: 5px solid #dddddd;
     float: right;
+    top: -25px;
+    position: relative;
     transform: rotate(134deg);
-
-
     transition: all 0s ease-in-out;
 }
 
