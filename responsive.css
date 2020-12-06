@@ -720,6 +720,10 @@
         height: 405px;
     }
 
+    .question-li:after {
+        top: -20px;
+    }
+
     .content {
         padding-top: 93px;
 
